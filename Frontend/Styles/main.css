@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* INICIO CASCATA HEADER */
+.align{
+    display: flex;
+}
+
+.align h1{
+    top: 24px;
+    left: 61px;
+
+    position: absolute;
+}
+
+.align nav{
+    display: flex;
+
+    left: 557px;
+
+    position: absolute;
+}
+
+.align nav ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.align nav ul li{
+    padding: 44px;
+}
+/* FINAL CASCATA HEADER */
+
+.artigo h1{
+    top: 236px;
+    left: 121px;
+    position: absolute;
+    font-family: Lohit Devanagari;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+}
+
+.artigo p{
+    top: 393px;
+    left: 121px;
+    position: absolute;
+    font-family: Lohit Devanagari;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+}
+
+.artigo div #btn1{
+    position: absolute;
+    width: 224px;
+    height: 88px;
+    left: 121px;
+    top: 749px;
+    border-radius: 7px;
+}
+
+.artigo div #btn2{
+    position: absolute;
+    width: 224px;
+    height: 88px;
+    left: 450px;
+    top: 749px;
+    border-radius: 7px;
+}
+
+.flatart figure img{
+    Top: 4872px;
+    Left: 1.377px;
+    position: absolute;
+}
