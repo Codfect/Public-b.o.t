@@ -1,12 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './index.css'
+import React from 'react'
+import ReactDOM from 'react-dom'
+
+import Menu from './components/Menu/Menu'
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-
+    <Menu></Menu>,
+    document.getElementById('root')
+)
